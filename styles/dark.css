@@ -23,3 +23,7 @@
   --image-cover: url(../images/cover-image-dark.png);
 
 }
+
+.page.theme_dark .decoration {
+  display: block;
+}
